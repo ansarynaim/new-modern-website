@@ -11,5 +11,5 @@ Homepage of a modern website created using 3D images .
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![modern website](https://user-images.githubusercontent.com/42023583/140035308-6f93391b-3f6a-40ab-897e-990634a25f37.png)
 
